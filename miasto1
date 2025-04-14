@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<title>Hobby i Myślenice - Karol Sawicz 1TP</title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css.css" type="text/css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+
+
+	</head>
+	<body>
+	<div id="kontener">
+	<div id="baner">
+	HOBBY ORAZ MOJE MIASTO
+	</div>
+	<div id="lewy">
+	Hobby:
+	<a  href="hobby1.html">
+	<div class="przycisk"> <br>
+	 Jazda rowerowa MTB
+	</div>
+	</a>
+	<a  href="hobby2.html">
+	<div class="przycisk"> <br>
+	 Motocykle
+	</div>
+	</a>
+	<a  href="hobby3.html">
+	<div class="przycisk"> <br>
+	 Gry
+	</div>
+	</a>
+	<a  href="hobby4.html">
+	<div class="przycisk"> <br>
+	 Samochody
+	</div>
+	</a>
+	<a  href="hobby5.html">
+	<div class="przycisk"> <br>
+	Moda (streetwear)
+	</div>
+	</a>
+	<a  href="hobby6.html">
+	<div class="przycisk"> <br>
+	Siłownia
+	</div>
+	</a>
+	</div>
+	<div id="srodkowy"><br>
+	Rynek w Myślenicach to bardzo ważne miejsce w mieście, które pełni zarówno rolę historyczną, jak i kulturalną. Został zaplanowany już w 1458 roku, a jego układ przypomina prostokąt. Wokół rynku rozchodziły się cztery ulice, a w 1784 roku dodano nowy trakt cesarski, zmieniając nieco pierwotny wygląd rynku.
+
+Na rynku znajduje się ratusz, który został zbudowany w latach 1895-1899. Jest to budynek zaprojektowany przez architekta Jana Sas-Zubrzyckiego. Na rynku można również zobaczyć dwie ważne rzeczy: studnię-fontannę „Tereska” oraz pomnik św. Floriana, który pochodzi z XVIII wieku.
+
+W ostatnich latach rynek przeszedł rewitalizację, podczas której dodano nowe elementy, takie jak ławki, kosze na śmieci, stojaki na rowery oraz fontannę miejską. Zmieniono też wygląd zieleni, sadząc drzewa i krzewy, co sprawiło, że rynek stał się bardziej przyjazny i estetyczny.
+
+Rynek w Myślenicach to nie tylko ważne miejsce historyczne, ale także centrum wydarzeń kulturalnych. Co roku odbywa się tam Jarmark Bożonarodzeniowy, na którym można kupić świąteczne potrawy, a także uczestniczyć w różnych atrakcjach, jak występy artystyczne czy spotkanie z Świętym Mikołajem.
+
+Dzięki swojej historii i nowoczesnym elementom, rynek w Myślenicach to miejsce, które łączy przeszłość z teraźniejszością i jest ważnym punktem w mieście.
+
+
+
+
+
+<br><br><br>
+<img src="myslenice.jpeg" id="zdj1"><br>
+<a href="index.html" style="color: #696969;">Powrót do strony głównej...</a>
+	</div>
+	<div id="prawy">
+	Myślenice:
+	<a  href="miasto1.html">
+	<div class="przycisk"> <br>
+	 Rynek
+	</div>
+	</a>
+	<a  href="miasto2.html">
+	<div class="przycisk"> <br>
+	 Zarabie
+	</div>
+	</a>
+	<a  href="miasto3.html">
+	<div class="przycisk"> <br>
+	 Chełm
+	</div>
+	</a>
+	<a  href="miasto4.html">
+	<div class="przycisk"> <br>
+	 Skate park
+	</div>
+	</a>
+	<a  href="miasto5.html">
+	<div class="przycisk"> <br>
+	Galeria Myślenicka
+	</div>
+	</a>
+	
+	</div>
+	</div>
+	</body>
+</html>
